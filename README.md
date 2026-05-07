@@ -1,7 +1,9 @@
 # hand-zumo
 This project allows you to control a Pololu Zumo robot using hand gestures, tracked via webcam. A fist stops the robot, an open hand drives it forward, and tilting your wrist left or right steers.
 
-This project was built using [libmapper](https://github.com/libmapper/libmapper), [mp-hands-libmapper](https://github.com/peacheym/mp-hands-libmapper), and [Webmapper](https://github.com/libmapper/webmapper).
+This was built using [libmapper](https://github.com/libmapper/libmapper), [mp-hands-libmapper](https://github.com/peacheym/mp-hands-libmapper), and [Webmapper](https://github.com/libmapper/webmapper).
+
+I built this project during winter semester of 2025/26, alongside my second year courseload. Although it does not extend my work in any particular class, I had fun applying libmapper and Webmapper in a different field. 
 
 ## Hardware
 - Arduino Uno
